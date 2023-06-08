@@ -1,4 +1,4 @@
-# RecurrunceWith3Methods
+# Recurrunce With 3 Methods
 
 This program implements the following piecewise recurrence relation in C using three different approaches: recursive, dynamic programming, and iterative.
 
